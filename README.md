@@ -77,15 +77,12 @@ Additionally, the following publications have utilized this dataset:
 ---
 ### Contact us 
 
-[Kemen lab](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/zentren/zentrum-fuer-molekularbiologie-der-pflanzen/research/research-groups/microbial-interactions/people/)
-
-
-Administrative \
-Eric Kemen (eric.kemen@zmbp.uni-tuebingen.de)
-
 Technical \
 Maryam Mahmoudi (https://maryambio.github.io) \
 Hamed Jalali (hamed.jalali@uni-tuebingen.de) 
+
+Administrative \
+Eric Kemen (eric.kemen@zmbp.uni-tuebingen.de)
 
 University of Tuebingen Germany \
 IMIT/ZMBP \
