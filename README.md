@@ -1,12 +1,17 @@
+LeafMicrobiome_ARC_DataPLANT
+---
 
 ### Project Overview:
+This project involved the collection of a large dataset on the leaf microbiome of Arabidopsis thaliana in Germany, with amplicon sequencing performed on the microbiome and genotyping of the host. The data were annotated and organized into Annotated Research Contexts (ARCs), which are stored and shared via the DataPlant platform (https://nfdi4plants.org/). The dataset will soon be published with the DOI [https://doi.org/10.57754/FDAT.61ckt-vm178].
 ![study](Studyoverview.png)
 
 ---
 ### Study
-#### path to the study folder :  [studies/LeafDNA](studies/LeafDNA)
 This project investigates the phyllosphere microbiome of *Arabidopsis thaliana* and its genome. It includes 354 plant samples collected from six wild field sites around Tuebingen, Germany. The samples were gathered over six years (2014-2019), during two seasons each year (spring and fall). For each plant, microbiomes of both epiphytic and endophytic fractions were separated, and DNA was extracted. In total, DNA was collected from 351 endophytic and 352 epiphytic samples. Note: Some plants only have one fraction due to low DNA yield or other experimental challenges. The remaining samples are controls (total = 6), which were used for library preparation for amplicon sequencing.
-Metadata for these samples is stored in [studies/LeafDNA/isa.study.xlsx](studies/LeafDNA/isa.study.xlsx).
+
+
+
+Due to file size limitations in github, the complete version of this project, including all datasets, is stored at the following path. If you are interested, you can access it here: Path: https://gitlab.plantmicrobe.de/maryam_mahmoudi/AbioticAraMicrobe
 
 
 
