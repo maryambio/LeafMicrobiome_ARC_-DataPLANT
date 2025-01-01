@@ -1,6 +1,6 @@
 
 ### Project Overview:
-![study](studies/LeafDNA/protocols/Studyoverview.png)
+![study](Studyoverview.png)
 
 ---
 ### Study
